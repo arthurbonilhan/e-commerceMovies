@@ -34,7 +34,7 @@ Este projeto consiste na criação de um site de e-commerce simplificado, desenv
 3. Rode `yarn start` e acesse `http://localhost:3000/`.<br />
 4. Em caso de dúvidas, favor entrar em contato.
 
-## Melhorias
+## Melhorias que eu faria:
 
 - Adicionaria um esquema de rotas com react-router-dom ou algo parecido
 - Melhoria a responsividade("Não deu tempo para finalizar")
