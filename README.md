@@ -27,6 +27,10 @@ Este projeto consiste na criação de um site de e-commerce simplificado, desenv
 - Componentes organizados por Atomic Design
 - Componentes React reutilizáveis
 
+## LINK PARA VISUALIZAÇÃO
+
+[Click para visualizar:](https://bonilhamovies.netlify.app/)
+
 ## Iniciando a aplicação atraves de clone
 
 1. Clone o Projeto
